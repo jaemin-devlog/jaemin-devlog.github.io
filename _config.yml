@@ -66,7 +66,8 @@ theme_mode: dark
 cdn:
 
 # Sidebar avatar
-avatar:
+avatar: /assets/image/profile.jpg
+
 
 # SEO preview image
 social_preview_image:
