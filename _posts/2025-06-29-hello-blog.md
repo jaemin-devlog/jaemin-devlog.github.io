@@ -1,6 +1,6 @@
 ---
 title: "블로그 시작하기"
-date: 2025-06-29 21:00:00 +0900
+date: 2025-06-29 03:00:00 +0900
 categories: [Devlog]
 tags: [jekyll, chirpy, blog]
 ---
