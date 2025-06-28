@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 홈
 permalink: /
 ---
@@ -11,6 +11,13 @@ permalink: /
 
 ## 📝 최근 게시물
 
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-{% endfor %}
+<div class="post__list">
+  {% for post in site.posts limit:5 %}
+    <article class="post-preview">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </article>
+    <hr />
+  {% endfor %}
+</div>
