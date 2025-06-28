@@ -1,0 +1,23 @@
+- name: springboot
+  description: 스프링부트 전반에 대한 설정과 사용법
+
+- name: springsecurity
+  description: 인증과 권한 처리를 위한 Spring Security 관련 내용
+
+- name: jpa
+  description: JPA와 Hibernate를 통한 ORM 활용법
+
+- name: restapi
+  description: RESTful API 설계와 예외 처리, 응답 포맷 등
+
+- name: gradle
+  description: 빌드 도구로 사용하는 Gradle 관련 설정과 팁
+
+- name: test
+  description: 단위 테스트, 통합 테스트, Mock 등 테스트 전반
+
+- name: database
+  description: RDB 설계, 쿼리, 트랜잭션 처리 등 DB 관련 내용
+
+- name: error
+  description: 개발 중 마주친 에러와 그 해결 방법 기록
