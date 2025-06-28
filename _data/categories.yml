@@ -1,0 +1,10 @@
+- name: Devlog
+  description: 개발 진행 과정과 고민들 기록
+- name: TIL
+  description: Today I Learned — 하루 공부 내용 정리
+- name: Project
+  description: 프로젝트별 기술 구현 기록
+- name: Error
+  description: 에러 해결 과정 정리
+- name: Review
+  description: 강의, 책, 기술 리뷰
