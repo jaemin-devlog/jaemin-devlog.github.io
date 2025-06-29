@@ -60,7 +60,7 @@ pageviews:
   provider:
 
 # Color scheme
-theme_mode: auto
+theme_mode: # [light | dark]
 
 # CDN (안 쓰면 빈 값 유지)
 cdn:
