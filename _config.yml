@@ -111,6 +111,7 @@ pwa:
 paginate: 10
 
 # Base URL
+url: "https://jaemin-devlog.github.io"
 baseurl: ""
 
 # Do not modify below unless 필요
