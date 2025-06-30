@@ -1,6 +1,6 @@
 ---
 title: "[3편] Github 블로그, 테마 적용하고 내 블로그 세상에 공개하기"
-date: 2025-07-02 00:00:00 +0900
+date: 2025-05-04 00:00:00 +0900
 categories: [개발블로그]
 tags: [GitHub, Jekyll, Chirpy, Blog Theme, GitHub Pages]
 layout: post
