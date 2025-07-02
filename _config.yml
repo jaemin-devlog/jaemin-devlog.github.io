@@ -80,14 +80,15 @@ comments:
   provider: giscus
   giscus:
     repo: jaemin-devlog/jaemin-devlog.github.io
-    repo_id: MDEwOlJlcG9zaXRvcnk0NzM1NjMwNQ==         # giscus 생성값
-    category: General                                 # Discussions에서 만든 카테고리
-    category_id: DIC_kwDOExample4CSEWg                # giscus 생성값
+    repo_id: R_kgDOPBioZA
+    category: General
+    category_id: DIC_kwDOPBioZM4CsWnH
     mapping: pathname
     strict: false
     input_position: bottom
     lang: ko
     reactions_enabled: true
+
 
 
 # Static assets
