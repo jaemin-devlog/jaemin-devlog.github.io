@@ -1,6 +1,6 @@
 ---
 title: "배열을 활용한 다항식의 덧셈 구현"
-date: 2025-06-30 21:00:00 +0900
+date: 2025-05-04 22:0:00 +0900
 categories: [자료구조]
 tags: [C언어, 배열, 다항식, polynomial]
 layout: post
