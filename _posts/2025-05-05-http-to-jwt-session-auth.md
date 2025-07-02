@@ -1,10 +1,12 @@
 ---
 title: "세션 기반 인증 방식 — HTTP부터 JWT까지 (3)"
+description: "세션 기반 인증의 구조와 작동 원리를 흐름도와 함께 설명하고, Spring Boot에서 Spring Security로 세션 인증을 설정하는 실전 예제를 포함합니다."
 date: 2025-05-05 00:02:00 +0900
-categories: [웹기초]
-tags: [Session, Authentication, Spring Security, 쿠키, 로그인]
+categories: [웹기초, Backend]
+tags: [Session, Authentication, Spring Security, 쿠키, 로그인, Backend]
 layout: post
 ---
+
 
 ## 세션 기반 인증 방식 — 고전이자 여전히 강력한 방법
 
