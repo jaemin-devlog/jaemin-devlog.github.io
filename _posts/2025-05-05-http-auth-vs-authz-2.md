@@ -1,6 +1,6 @@
 ---
 title: "인증 / 인가 — HTTP부터 JWT까지 (2)"
-date: 2025-07-04 00:01:00 +0900
+date: 2025-05-05 00:01:00 +0900
 categories: [웹기초]
 tags: [인증, 인가, Authentication, Authorization, 보안]
 layout: post
