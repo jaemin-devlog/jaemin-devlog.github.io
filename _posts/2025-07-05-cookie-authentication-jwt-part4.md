@@ -1,10 +1,12 @@
 ---
 title: "🍪쿠키(Cookie) — HTTP부터 JWT까지 (4)"
+description: "HTTP의 무상태성 문제를 해결하기 위해 등장한 쿠키(Cookie)의 개념, 구조, 동작 방식, 그리고 보안 이슈까지 정리합니다. 세션과의 차이점도 비교해 보며 인증 흐름을 이해해 보세요."
 date: 2025-05-05 00:03:00 +0900
-categories: [웹기초]
-tags: [HTTP, 쿠키, 세션, 인증, 보안]
+categories: [웹기초, Backend]
+tags: [HTTP, 쿠키, 세션, 인증, 보안, Backend]
 layout: post
 ---
+
 
 ## 🍪 쿠키의 등장 배경 — HTTP는 무상태(Stateless)
 
