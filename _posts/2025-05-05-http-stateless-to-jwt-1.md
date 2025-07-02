@@ -1,10 +1,12 @@
 ---
 title: "HTTP는 왜 상태를 기억하지 못할까 — HTTP부터 JWT까지 (1)"
+description: "HTTP는 왜 상태를 기억하지 못할까? Stateless의 개념부터 세션, 쿠키, 토큰까지의 흐름을 예시와 함께 이해하는 웹 인증 기초 시리즈입니다."
 date: 2025-05-05 00:00:00 +0900
 categories: [웹기초]
-tags: [HTTP, Stateless, 인증, 세션, JWT]
+tags: [HTTP, Stateless, 인증, 세션, JWT,Backend]
 layout: post
 ---
+
 
 ## 1. HTTP란?
 
