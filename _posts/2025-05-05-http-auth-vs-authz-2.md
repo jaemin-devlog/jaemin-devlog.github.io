@@ -2,7 +2,7 @@
 title: "인증 / 인가 — HTTP부터 JWT까지 (2)"
 description: "인증(Authentication)과 인가(Authorization)의 차이를 예시와 함께 설명합니다. 로그인과 권한 관리의 핵심 개념을 이해하고 웹 보안의 구조를 명확히 정리해보세요."
 date: 2025-05-05 00:01:00 +0900
-categories: [웹기초]
+categories: [웹기초, Backend]
 tags: [인증, 인가, Authentication, Authorization, 보안, Backend]
 layout: post
 ---
