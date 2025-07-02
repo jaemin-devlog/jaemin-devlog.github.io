@@ -77,22 +77,18 @@ toc: true
 
 # Comments
 comments:
-  provider:
-  disqus:
-    shortname:
-  utterances:
-    repo:
-    issue_term:
+  provider: giscus
   giscus:
-    repo:
-    repo_id:
-    category:
-    category_id:
-    mapping:
-    strict:
-    input_position:
-    lang:
-    reactions_enabled:
+    repo: jaemin-devlog/jaemin-devlog.github.io
+    repo_id: MDEwOlJlcG9zaXRvcnk0NzM1NjMwNQ==          # ✅ giscus에서 발급받은 값으로 교체
+    category: General                                 # ✅ GitHub Discussions에서 생성한 카테고리 이름
+    category_id: DIC_kwDOExample4CSEWg                # ✅ giscus에서 발급받은 값으로 교체
+    mapping: pathname                                 # ✅ 각 포스트의 URL 경로를 기준으로 Discussion 연결
+    strict: false                                     # Discussion이 없을 때 자동 생성 허용
+    input_position: bottom                            # 댓글 입력창 위치 (top 또는 bottom)
+    lang: ko                                          # 한국어
+    reactions_enabled: true                           # 이모지 리액션 허용
+
 
 # Static assets
 assets:
