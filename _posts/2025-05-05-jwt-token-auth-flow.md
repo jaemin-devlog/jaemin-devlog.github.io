@@ -1,7 +1,7 @@
 ---
 title: "토큰 기반 인증(JWT) — HTTP부터 JWT까지 (5)"
 description: "JWT(JSON Web Token)를 중심으로 한 토큰 기반 인증의 개념과 구조를 이해합니다. 세션 방식과의 차이, 보안 이슈, Refresh Token 도입까지 실무에 필요한 인증 전략을 정리한 글입니다."
-date: 2025-05-05 00:04:00 +0900
+date: 2025-05-05 00:04:01 +0900
 categories: [웹기초, Backend]
 tags: [JWT, 인증, 보안, 토큰, HTTP, Backend]
 layout: post
