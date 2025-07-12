@@ -2,7 +2,7 @@
 title: "후위연산의 정의와 코드 구현"
 date: 2025-05-04 09:0:00 +0900
 categories: [자료구조]
-tags: [C언어, 스택, 후위연산, postfix]
+tags: [C언어, 스택]
 layout: post
 ---
 
