@@ -1,31 +1,26 @@
 ---
 title: '[BOJ 2557] Hello World - Java'
-date: 2025-07-22 00:16:23 +0900
+date: 2025-07-22 00:00:00 +0900
 categories: [백준, Java]
-tags: [백준, Java, 입출력과 사칙연산]
+tags: [백준, Java, 입출력, HelloWorld]
 layout: post
 ---
 
-## 문제 설명
+## 문제
 
 [BOJ 2557 - Hello World](https://www.acmicpc.net/problem/2557)
 
-> **문제 요약:**  
 > Hello World!를 출력하시오.
 
-- **입력:** 없음  
-- **출력:** `Hello World!`를 출력
+---
+
+## 풀이
+
+Java의 기본 출력 함수인 `System.out.println()`을 사용합니다.
 
 ---
 
-## 풀이 접근
-
-이 문제는 Java의 기본 출력 함수인 `System.out.println()` 을 사용하여 `"Hello World!"` 문자열을 그대로 출력하면 됩니다.  
-컴파일과 실행이 되는지만 확인하면 되는 가장 기초적인 문제입니다.
-
----
-
-## 코드 (Java)
+## 코드
 
 ```java
 public class Main {
